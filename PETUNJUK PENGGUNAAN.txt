@@ -1,0 +1,11 @@
+==== Cara Penggunaan 
+
++++++++ Setting File 
+- Taruh 3 file ini di satu folder yang terletak di 1 folder yang berada di dalam htdocs
+- Kemudian jalankan xampp dan buka website yang tadi kalian buat 
+
+++++++++ Settingm Import Database 
+- Buka PHPMYADMIN kalian
+- Kemudian di navigasi atas terdapat import dan pilih menu tersebut 
+- Setelah itu pilih browse, pilih file database yang tadi di download di github, kemudian import. 
+- Setelahnya jalankan kembali website kalian untuk mengecek prosesnya tersebut 
